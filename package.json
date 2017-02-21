@@ -2,7 +2,7 @@
 	"name": "inception",
 	"displayName": "Inception",
 	"description": "Inception is an extension for Visual Studio Code that helps you dive into information contained in text.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "davidni",
 	"repository": {
 		"type": "git",
